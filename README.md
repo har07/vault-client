@@ -1,0 +1,1 @@
+Simplified golang client for doing CRUD `secret` from Vault. This call Vault REST API under the hood.
